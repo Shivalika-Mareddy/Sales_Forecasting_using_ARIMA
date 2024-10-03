@@ -21,7 +21,7 @@ Install the required dependencies:
 
 2.Update the csv_path in the script with the path to your CSV file:
 ```bash
- csv_path="/path/to/your/stocks.csv"
+ csv_path="/path/to/your/sales.csv"
 ```
 3.Execute the script.
 
